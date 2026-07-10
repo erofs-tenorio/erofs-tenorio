@@ -18,7 +18,7 @@
 
 ### OS:
 
-<a href="https://voidlinux.org/"><img src="https://voidlinux.org/assets/img/void_bg.png"/></a><a href="https://tails.boum.org/"><img src="https://img.shields.io/badge/Tails-191724?style=for-the-badge&logo=torproject&logoColor=white"/></a><a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-191724?style=for-the-badge&logo=android&logoColor=white"/></a>
+<a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-191724?style=for-the-badge&logo=android&logoColor=white"/></a>
 
 ---
 

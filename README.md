@@ -1,6 +1,6 @@
 <p align="center">
   Hi! 'm a developer learning Python, Java and Rust.<br/>
-  In my free time, I maintain LineageOS with integrated MicroG, and Free Open-Source Services (FOSS) for the Redmi Note 13 4G.<br/>
+  In my free time, I maintain LineageOS with integrated MicroG, and Free Open-Source Services (FOSS) for the Redmi Note 13 4G (WhoFoss script fork).<br/>
  <b>Here you'll find my scripts and dotfiles.</b>
 </p>
 
